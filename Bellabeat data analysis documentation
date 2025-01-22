@@ -41,7 +41,7 @@ Compare average calories by distance traveled. (light and medium)
 Compare sum of distant traveled by activityday name.
 Compare sum of steps total by period of the day.
 Share
-https://fcmb-my.sharepoint.com/:u:/p/yusuf_atanda/ET_5c1iCDZNFq6NPbq2NH48BJ0H-UVXNaE7XMXPt0DJWtQ?e=IUnuhA
+https://drive.google.com/drive/folders/1FsI0kRmygjU2ptFhmc6P7it-XTLK3u1t?usp=drive_link
 
 Act
 The following are the recommendations based on the insights from the analysis
